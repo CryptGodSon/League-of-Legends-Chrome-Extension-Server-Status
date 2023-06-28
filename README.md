@@ -1,1 +1,1 @@
-# LOL_Chrome_Extension_Server_Status
+# League of Legends Chrome Extension Server Status
