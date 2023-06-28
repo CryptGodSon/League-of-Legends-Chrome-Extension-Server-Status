@@ -1,7 +1,5 @@
 # League of Legends Chrome Extension Server Status
-![11111](https://github.com/CryptGodSon/League-of-Legends-Chrome-Extension-Server-Status/assets/106864633/894a4e66-c4ab-4ae6-9647-cdff188b8462)
-![icon](https://github.com/CryptGodSon/League-of-Legends-Chrome-Extension-Server-Status/assets/106864633/62adff84-9f32-4dfc-a3ae-ca19b124fa3c)
-
+## Icon of Extension ![icon](https://github.com/CryptGodSon/League-of-Legends-Chrome-Extension-Server-Status/assets/106864633/62adff84-9f32-4dfc-a3ae-ca19b124fa3c)
 
 This is a simple Chrome extension that allows you to check the server status of League of Legends for various regions. It fetches the status from the Riot Games API and displays whether the servers are online or offline.
 
@@ -24,6 +22,9 @@ This is a simple Chrome extension that allows you to check the server status of 
 1. Click on the extension icon in the Chrome toolbar.
 2. The server status will be displayed, indicating whether the League of Legends servers are online or offline for the selected region.
 3. Click on the "League of Legends Server Status" button to open the official Riot Games Server Status page for the selected region.
+
+## Screenshot
+# Extension image ![11111](https://github.com/CryptGodSon/League-of-Legends-Chrome-Extension-Server-Status/assets/106864633/894a4e66-c4ab-4ae6-9647-cdff188b8462)
 
 ## Credits
 
