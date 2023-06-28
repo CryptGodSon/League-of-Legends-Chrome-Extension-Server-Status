@@ -25,7 +25,6 @@ This is a simple Chrome extension that allows you to check the server status of 
 3. Click on the "League of Legends Server Status" button to open the official Riot Games Server Status page for the selected region.
 
 ## Screenshot
-# Extension image 
 ![11111](https://github.com/CryptGodSon/League-of-Legends-Chrome-Extension-Server-Status/assets/106864633/894a4e66-c4ab-4ae6-9647-cdff188b8462)
 
 ## Credits
