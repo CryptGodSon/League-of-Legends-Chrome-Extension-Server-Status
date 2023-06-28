@@ -1,0 +1,26 @@
+{
+  "manifest_version": 2,
+  "name": "Riot Games Status Checker",
+  "version": "1.0",
+  "description": "Check League of Legends server status",
+  "author": "@CryptGodSon",
+  "homepage_url": "https://github.com/CryptGodSon",
+  "permissions": ["https://status.riotgames.com/*"],
+  "icons": {
+    "16": "icon.png",
+    "48": "icon2.png",
+    "128": "icon2.png"
+  },
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon2.png",
+      "128": "icon2.png"
+    }
+  },
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  }
+}
